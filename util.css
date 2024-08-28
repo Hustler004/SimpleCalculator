@@ -1,0 +1,17 @@
+.text-center{
+    text-align: center;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+
+.center-content{
+    justify-content: center;
+    align-items: center;
+}
+.m-10{
+    margin: 10px;
+}
